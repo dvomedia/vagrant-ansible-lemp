@@ -1,4 +1,4 @@
-# LEMP stack with CentOS 6.5
+# LEMP stack with CentOS 7.0
 
 ## The stack
 
